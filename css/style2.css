@@ -5,7 +5,7 @@
 	position: relative;
 	cursor: default;
 	box-shadow: 
-		inset 0 0 0 0 rgba(200,95,66, 0.4),
+		inset 0 0 0 0 rgba(105,105,105, 0.4),
 		inset 0 0 0 16px rgba(255,255,255,0.6),
 		0 1px 2px rgba(0,0,0,0.1);
 		
@@ -17,15 +17,15 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/4.jpg);
+	background-image: url(../images/mental.png);
 }
 
 .ch-img-2 { 
-	background-image: url(../images/5.jpg);
+	background-image: url(../images/medium.png);
 }
 
 .ch-img-3 { 
-	background-image: url(../images/6.jpg);
+	background-image: url(../images/cyclos.png);
 }
 
 .ch-info {
@@ -69,9 +69,9 @@
 .ch-info p {
 	color: #fff;
 	padding: 10px 5px;
-	font-style: italic;
+	/* font-style: italic; */
 	margin: 0 30px;
-	font-size: 12px;
+	font-size: 14px;
 	border-top: 1px solid rgba(255,255,255,0.5);
 }
 
@@ -95,7 +95,7 @@
 
 .ch-item:hover {
 	box-shadow: 
-		inset 0 0 0 150px rgba(200,95,66, 0.4),
+		inset 0 0 0 150px rgba(105,105,105, 0.8),
 		inset 0 0 0 16px rgba(255,255,255,0.8),
 		0 1px 2px rgba(0,0,0,0.1);
 }
