@@ -28,6 +28,18 @@
 	background-image: url(../images/cyclos.png);
 }
 
+.ch-img-4 { 
+	background-image: url(../images/no.png);
+}
+
+.ch-img-5 { 
+	background-image: url(../images/web.jpg);
+}
+
+.ch-img-6 { 
+	background-image: url(../images/disaster.jpg);
+}
+
 .ch-info {
 	position: absolute;
 	width: 100%;
