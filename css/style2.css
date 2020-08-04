@@ -40,6 +40,10 @@
 	background-image: url(../images/disaster.jpg);
 }
 
+.ch-img-7 { 
+	background-image: url(../images/hackumass.png);
+}
+
 .ch-info {
 	position: absolute;
 	width: 100%;
